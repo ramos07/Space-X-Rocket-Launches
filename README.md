@@ -3,5 +3,5 @@
 - React.js
 - Node.js
 - Express.js
-- GrapQL
+- GraphQL
 - Apollo
