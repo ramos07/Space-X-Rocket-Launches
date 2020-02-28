@@ -1,7 +1,7 @@
 # Space X Launches Website 
 ## Built using the following tech
--- React.js
--- Node.js
--- Express.js
--- GrapQL
--- Apollo
+- React.js
+- Node.js
+- Express.js
+- GrapQL
+- Apollo
